@@ -1,4 +1,4 @@
-# OpenDevin Installation Guide on WSL
+# OpenDevin Installation Guide on Windows (WSL)
 
 This guide provides step-by-step instructions for installing and setting up OpenDevin on Windows using WSL (Windows Subsystem for Linux) with Ubuntu.
 
