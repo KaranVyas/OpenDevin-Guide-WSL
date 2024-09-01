@@ -13,7 +13,7 @@ This guide provides step-by-step instructions for installing and setting up Open
 First, verify that you have Python 3.11 or later installed:
 
 ```bash
-python --version
+python3 --version
 ```
 
 ## Step 2: Install Node.js Using NVM
