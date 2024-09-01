@@ -47,11 +47,16 @@ make build
 source ~/.profile && poetry --version
 ```
 
-#### Install Poetry (If not Installed)
+#### Install Poetry (If not Installed):
 ```
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
+#### Build Again: 
+```
+make build
+make setup-config
+```
 ## Step 5: Run OpenDevin
 #### Create a workspace directory:
 ```
