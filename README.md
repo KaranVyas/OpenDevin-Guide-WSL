@@ -34,7 +34,7 @@ https://docs.docker.com/engine/install/
 #### Clone the OpenDevin repository:
 ```
 git clone https://github.com/OpenDevin/OpenDevin.git
-cd OpenDevin/
+code OpenDevin/
 ```
 
 #### Build the project:
